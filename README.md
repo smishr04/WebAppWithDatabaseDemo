@@ -5,7 +5,7 @@ Sample ASP.NET Core MVC app with database for demoing CI-CD pipelines using Azur
 
 <table>
   <tr>
-    <td>Build status</td>
+    <td>Build Status</td>
     <td>Release status - dev</td> 
     <td>Release status - test</td>  
     <td>Release status - prod</td>
